@@ -9,7 +9,7 @@ Script.JS Defines an array of the target sites;
 
 Obviously this data should move to config file or similar and have an internace to edit the list. I haven't done that yet!
 
-## Copyright and License
+### Copyright and License
 
 Licensed under Creative Commons Attribution 4.0
 
