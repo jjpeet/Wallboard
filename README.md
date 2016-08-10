@@ -1,9 +1,9 @@
 # Wallboard
 ## Switch between external websites
 
-This project is an investigation to see how to cycle between a number of external websites. Typically this would display on a wall mounted screen used in a Local Disaster Coordnation centre.
+This project is an investigation to see how to cycle between a number of external websites. Typically this would display on a wall mounted screen used in a Local Disaster Coordination centre.
 
-Script.JP Defines an array of the target sites;
+Script.JS Defines an array of the target sites;
 * https://www.moretonbay.qld.gov.au/maps-disaster.aspx'
 * http://www.bom.gov.au/products/IDR503.loop.shtml#skip'
 
